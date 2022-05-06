@@ -4,6 +4,7 @@
 # name: Rsync script by Leonardo Bujas
 # email: leonardo@ttfb.hr
 # version: 1.0b
+# date: 19.08.2020
 #
 ####################################
 
