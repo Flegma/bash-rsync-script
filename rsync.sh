@@ -2,7 +2,7 @@
 ####################################
 #
 # name: Rsync script by Leonardo Bujas
-# email: leonardo@locastic.com
+# email: leonardo@ttfb.hr
 # version: 1.0b
 #
 ####################################
